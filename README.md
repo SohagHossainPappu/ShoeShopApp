@@ -1,16 +1,19 @@
-# e_commerce_app
+# SHOE SHOP APP
 
-A new Flutter project.
+<h3> 📝📝 DESCRIPTION</h3>
+  
+<p>It's basic UI design for mobile application.This app was built with flutter framework.It's an ecommerce app.🙆‍♂️🙆‍♂️</p>
 
-## Getting Started
+<h3>🛠🛠 TOOLS</h3>
+<ul>
+  <li><h5>Flutter</h5></li>
+  <li><h5>Dart</h5></li>
+</ul>  
 
-This project is a starting point for a Flutter application.
+  
+### 🎨PREVIEW 
+<img src="img/p1.jpg" height="400" width="200"/> <img src="img/p2.jpg" height="400" width="200"/> <img src="img/p3.jpg" height="400" width="200"/> <img src="img/p4.jpg" height="400" width="200"/> <img src="img/p5.jpg" height="400" width="200"/>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ <h3>🔗🔗LIVE PREVIEW</h3>
+   
+   <p>You can install this app in your phone .Go to the apk folder and install the apk file</p>
